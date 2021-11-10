@@ -1,0 +1,33 @@
+
+.forms{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 6%;
+}
+
+.form-control{
+    margin-top: 8%;
+}
+
+.copyright{
+    margin: 12%;
+    color: #e83b06;
+}
+.titulo{
+    color: #e83b06;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn{
+    width: 100%;
+    margin-top: 8%;
+}
+
+.result{
+    width: 70%;
+    border-radius: 10px;
+    border-color: #e83b06;
+}
